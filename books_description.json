@@ -1,0 +1,392 @@
+[
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/239.jpg",
+        "author": "ИВАНОВ Сергей",
+        "book_name": "Алиби",
+        "image_name": "239.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Алиби",
+        "image_path": "parse_folder/images/239.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/550.jpg",
+        "author": "Стерлинг Брюс",
+        "book_name": "Бич небесный",
+        "image_name": "550.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Бич небесный",
+        "image_path": "parse_folder/images/550.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/768.jpg",
+        "author": "Маркеев Олег Георгиевич",
+        "book_name": "Цена посвящения: Серый Ангел",
+        "image_name": "768.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Цена посвящения: Серый Ангел",
+        "image_path": "parse_folder/images/768.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/769.jpg",
+        "author": "Маркеев Олег Георгиевич",
+        "book_name": "Цена посвящения: Время Зверя",
+        "image_name": "769.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Цена посвящения: Время Зверя",
+        "image_path": "parse_folder/images/769.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/1131.jpg",
+        "author": "Fforde Jasper",
+        "book_name": "Дело Джен, или Эйра немилосердия",
+        "image_name": "1131.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Дело Джен, или Эйра немилосердия",
+        "image_path": "parse_folder/images/1131.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/1715.jpg",
+        "author": "Мар Курт",
+        "book_name": "Фабрика дьявола",
+        "image_name": "1715.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Фабрика дьявола",
+        "image_path": "parse_folder/images/1715.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Азимов Айзек",
+        "book_name": "Говорящий камень",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Говорящий камень",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/2043.jpg",
+        "author": "Аджалов Владимир",
+        "book_name": "И Он пришел... ИТ-роман",
+        "image_name": "2043.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/И Он пришел... ИТ-роман",
+        "image_path": "parse_folder/images/2043.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Чертанов Максим",
+        "book_name": "Казнить нельзя помиловать",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Казнить нельзя помиловать",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/4024.jpg",
+        "author": "Азимов Айзек",
+        "book_name": "Ночь, которая умирает",
+        "image_name": "4024.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Ночь, которая умирает",
+        "image_path": "parse_folder/images/4024.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/4102.jpg",
+        "author": "Хенрик Ричард",
+        "book_name": "Нырок в забвение",
+        "image_name": "4102.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Нырок в забвение",
+        "image_path": "parse_folder/images/4102.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/4876.jpg",
+        "author": "Азимов Айзек",
+        "book_name": "Поющий колокольчик",
+        "image_name": "4876.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Поющий колокольчик",
+        "image_path": "parse_folder/images/4876.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/5299.jpg",
+        "author": "Аджалов Владимир Исфандеярович",
+        "book_name": "Продается тело Христа",
+        "image_name": "5299.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Продается тело Христа",
+        "image_path": "parse_folder/images/5299.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Патрацкая Наталья",
+        "book_name": "Роковой поцелуй",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Роковой поцелуй",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/6758.jpg",
+        "author": "Руденко Борис",
+        "book_name": "Те, кто против нас",
+        "image_name": "6758.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Те, кто против нас",
+        "image_path": "parse_folder/images/6758.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/6766.jpg",
+        "author": "Мар Курт",
+        "book_name": "Телепортеры, внимание!",
+        "image_name": "6766.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Телепортеры, внимание!",
+        "image_path": "parse_folder/images/6766.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/8283.jpg",
+        "author": "Стивенсон Нил",
+        "book_name": "Зодиак",
+        "image_name": "8283.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Зодиак",
+        "image_path": "parse_folder/images/8283.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Карр Алекс",
+        "book_name": "9-я книга. Тарат Зурбин",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/9-я книга. Тарат Зурбин",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Берендеев Кирилл",
+        "book_name": "90х60х90",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/90х60х90",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Цветков Юрий",
+        "book_name": "995-й святой",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/995-й святой",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Еськов Кирилл",
+        "book_name": "А, Критика!",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А, Критика!",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/18949.jpg",
+        "author": "Бойе Карин",
+        "book_name": "АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ",
+        "image_name": "18949.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ",
+        "image_path": "parse_folder/images/18949.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Амнуэль Песах",
+        "book_name": "А бог един",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А бог един",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Купцов Василий",
+        "book_name": "А была ли тайна",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А была ли тайна",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Трусов Сергей",
+        "book_name": "А человек забудет",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А человек забудет",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Браун Фредерик",
+        "book_name": "А что будет",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А что будет",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/18956.jpg",
+        "author": "Фостер Алан Дин",
+        "book_name": "А что с ними делать дальше?",
+        "image_name": "18956.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А что с ними делать дальше?",
+        "image_path": "parse_folder/images/18956.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Ван Вогт Альфред",
+        "book_name": "А дом стоит себе спокойно (Вечный дом)",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А дом стоит себе спокойно (Вечный дом)",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Хайнлайн Роберт",
+        "book_name": "А еще мы выгуливаем собак",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А еще мы выгуливаем собак",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Глазков Юрий",
+        "book_name": "А где же Рошар",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А где же Рошар",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Стульник Сергей",
+        "book_name": "А и Е",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А и Е",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Лейбер Фриц",
+        "book_name": "А я пойду дальше",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А я пойду дальше",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Каттнер Генри",
+        "book_name": "А как же еще",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А как же еще",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Корепанов Алексей",
+        "book_name": "А мне до них",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А мне до них",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Григорьев Владимир",
+        "book_name": "А могла бы и быть",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А могла бы и быть",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Тенн Уильям",
+        "book_name": "А моя мама - ведьма!",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А моя мама - ведьма!",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Молзберг Барри",
+        "book_name": "А мы лезем в окно",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А мы лезем в окно",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Грешнов Михаил",
+        "book_name": "А вдруг",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А вдруг",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Гуларт Рон",
+        "book_name": "А все из-за любви",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/А все из-за любви",
+        "image_path": "parse_folder/images/nopic.gif"
+    }
+]

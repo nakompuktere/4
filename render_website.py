@@ -10,7 +10,7 @@ def on_reload():
     )
     template = env.get_template('template.html')
 
-    with open("books_description.json", "r", encoding="utf8") as my_file:
+    with open("parse_folder/books_description.json", "r", encoding="utf8") as my_file:
         books_json = my_file.read()
 
     books = json.loads(books_json)

@@ -388,5 +388,105 @@
         "book_comment": [],
         "book_path": "parse_folder/books/А все из-за любви",
         "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Берендеев Кирилл",
+        "book_name": "Абстрактное мышление",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Абстрактное мышление",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Гаррисон Гарри",
+        "book_name": "Ад для флибустьеров",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Ад для флибустьеров",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/shots/19005.jpg",
+        "author": "Клейн Жерар",
+        "book_name": "Ад есть ад",
+        "image_name": "19005.jpg",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Ад есть ад",
+        "image_path": "parse_folder/images/19005.jpg"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Матях Анатолий",
+        "book_name": "Агент",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Агент",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Кирпичев Вадим",
+        "book_name": "Агент X-100-C",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Агент X-100-C",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Тенн Уильям",
+        "book_name": "Александр-наживка",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Александр-наживка",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Баландин Рудольф",
+        "book_name": "Александр Александрович Малиновский (Богданов)",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Александр Александрович Малиновский (Богданов)",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Азимов Айзек",
+        "book_name": "Александр Бог",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Александр Бог",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Колпаков Александр",
+        "book_name": "Александр Лаврентьевич Колпаков - об авторе",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Александр Лаврентьевич Колпаков - об авторе",
+        "image_path": "parse_folder/images/nopic.gif"
+    },
+    {
+        "book_genres": [],
+        "picture_link": "https://tululu.org/images/nopic.gif",
+        "author": "Фирсов Владимир",
+        "book_name": "Александр Петрович и Вероятностный Демон",
+        "image_name": "nopic.gif",
+        "book_comment": [],
+        "book_path": "parse_folder/books/Александр Петрович и Вероятностный Демон",
+        "image_path": "parse_folder/images/nopic.gif"
     }
 ]

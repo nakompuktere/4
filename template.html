@@ -18,28 +18,32 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <div class="container">
-      <nav aria-label="Page navigation example">
-        <ul class="pagination">
-          {% if current_page == 1 %}
-          <li class="page-item disabled">
-            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-          </li>
-          {% else %}
-            <li class="page-item"><a class="page-link" href="http://127.0.0.1:5500/pages/index{{current_page - 1}}.html">Previous</a></li>
-          {% endif %}
-          {%for page_number in range(1, pages + 1)%}
-            <li class="page-item"><a class="page-link" href="http://127.0.0.1:5500/pages/index{{page_number}}.html">{{page_number}}</a></li>
-          {% endfor %}
-          {% if current_page == pages %}
-          <li class="page-item disabled">
-            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Next</a>
-          </li>
-          {% else %}
-          <li class="page-item"><a class="page-link" href="http://127.0.0.1:5500/pages/index{{current_page + 1}}.html">Next</a></li>
-          {% endif %}
+      <div class="mt-4">
+        <nav aria-label="Page navigation example">
+          <ul class="pagination">
+            {% if current_page == 1 %}
+            <li class="page-item disabled">
+              <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+            </li>
+            {% else %}
+              <li class="page-item"><a class="page-link" href="http://127.0.0.1:5500/pages/index{{current_page - 1}}.html">Previous</a></li>
+            {% endif %}
 
-        </ul>
-      </nav>
+            {%for page_number in range(1, pages + 1)%}
+              <li class="page-item"><a class="page-link" href="http://127.0.0.1:5500/pages/index{{page_number}}.html">{{page_number}}</a></li>
+            {% endfor %}
+            
+            {% if current_page == pages %}
+            <li class="page-item disabled">
+              <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Next</a>
+            </li>
+            {% else %}
+            <li class="page-item"><a class="page-link" href="http://127.0.0.1:5500/pages/index{{current_page + 1}}.html">Next</a></li>
+            {% endif %}
+
+          </ul>
+        </nav>
+      </div>
       {% for row_books in books %}
         <div class="row">
           {% for book in row_books %}
@@ -53,7 +57,13 @@
                       <div class="card-body">
                       <h5 class="card-title">{{book.book_name}}</h5>
                       <p class="card-text">{{book.author}}.</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                      
+                      <p class="card-text">
+                        {%for book_genre in book.book_genres%}
+                          <span class="badge badge-light">{{book_genre}}</span>
+                        {% endfor %}
+                      </p>
+                      
                       <a href="{{book.book_path}}.txt" target="_blank">Читать</a>
                       </div>
                   </div>

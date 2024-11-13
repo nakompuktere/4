@@ -3,9 +3,16 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from livereload import Server
 from more_itertools import chunked
 import os
+import argparse
 
 
 def on_reload():
+    parser = argparse.ArgumentParser(
+        description='создает сайт с книгами'
+    )   
+    parser.add_argument('--file_path', help='введите путь до файла с данными о книгах', default="parse_folder/books_description.json")
+    args = parser.parse_args()
+
     books_per_page_number = 10
     columns_number = 2
     env = Environment(
@@ -14,7 +21,7 @@ def on_reload():
     )
     template = env.get_template('template.html')
 
-    with open("parse_folder/books_description.json", "r", encoding="utf8") as my_file:
+    with open(args.file_path, "r", encoding="utf8") as my_file:
         books_json = my_file.read()
 
     books = json.loads(books_json)

@@ -4,7 +4,6 @@ from livereload import Server
 from more_itertools import chunked
 import os
 
-os.makedirs("pages", exist_ok=True)
 
 def on_reload():
     env = Environment(
@@ -31,10 +30,14 @@ def on_reload():
         with open(f'pages/index{id}.html', 'w', encoding="utf8") as file:
             file.write(rendered_page)
 
-on_reload()
+def main():
+    os.makedirs("pages", exist_ok=True)
 
-server = Server()
+    on_reload()
 
-server.watch('template.html', on_reload)
+    server = Server()
+    server.watch('template.html', on_reload)
+    server.serve(root='.', default_filename="pages/index1.html")
 
-server.serve(root='.', default_filename="pages/index1.html")
+if __name__ == "__main__":
+    main()

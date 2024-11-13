@@ -22,9 +22,8 @@ def on_reload():
     template = env.get_template('template.html')
 
     with open(args.file_path, "r", encoding="utf8") as my_file:
-        books_json = my_file.read()
+        books = json.load(my_file)
 
-    books = json.loads(books_json)
     book_pages = list(chunked(books, books_per_page_number))
     pages = len(book_pages)
     for id, book_page in enumerate(book_pages, 1):

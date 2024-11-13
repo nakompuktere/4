@@ -6,6 +6,8 @@ import os
 
 
 def on_reload():
+    books_per_page_number = 10
+    columns_number = 2
     env = Environment(
         loader=FileSystemLoader('.'),
         autoescape=select_autoescape(['html'])
@@ -16,10 +18,10 @@ def on_reload():
         books_json = my_file.read()
 
     books = json.loads(books_json)
-    book_pages = list(chunked(books, 10))
+    book_pages = list(chunked(books, books_per_page_number))
     pages = len(book_pages)
     for id, book_page in enumerate(book_pages, 1):
-        chunked_books = list(chunked(book_page, 2))
+        chunked_books = list(chunked(book_page, columns_number))
         
         rendered_page = template.render(
             books=chunked_books,

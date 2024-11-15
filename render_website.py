@@ -10,7 +10,7 @@ def on_reload():
     parser = argparse.ArgumentParser(
         description='создает сайт с книгами'
     )   
-    parser.add_argument('--file_path', help='введите путь до файла с данными о книгах', default="parse_folder/books_description.json")
+    parser.add_argument('--file_path', help='введите путь до файла с данными о книгах', default="books/books_description.json")
     args = parser.parse_args()
 
     books_per_page_number = 10

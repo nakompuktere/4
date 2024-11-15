@@ -35,6 +35,13 @@ pip install -r requirements.txt
 python render_website.py
 ```
 
+Можно выбрать путь к каталогу с результатами парсинга.
+Для этого используйте `--file_path`.
+```
+python render_website.py --file_path ПУТЬ ДО ФАЙЛА
+```
+
+
 на сайт можно перейти по ссылке в терминале после запуска кода.
 ```
 [I 241108 17:43:43 server:330] Serving on http://127.0.0.1:5500

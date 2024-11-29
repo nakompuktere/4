@@ -9,8 +9,8 @@
         "book_name": "Алиби",
         "image_name": "239.jpg",
         "book_comment": [],
-        "book_path": "library/books/Алиби",
-        "image_path": "library/images/239.jpg"
+        "book_path": "book_archive/books/Алиби",
+        "image_path": "book_archive/images/239.jpg"
     },
     {
         "book_genres": [
@@ -22,8 +22,8 @@
         "book_name": "Бич небесный",
         "image_name": "550.jpg",
         "book_comment": [],
-        "book_path": "library/books/Бич небесный",
-        "image_path": "library/images/550.jpg"
+        "book_path": "book_archive/books/Бич небесный",
+        "image_path": "book_archive/images/550.jpg"
     },
     {
         "book_genres": [
@@ -35,8 +35,8 @@
         "book_name": "Цена посвящения: Серый Ангел",
         "image_name": "768.jpg",
         "book_comment": [],
-        "book_path": "library/books/Цена посвящения: Серый Ангел",
-        "image_path": "library/images/768.jpg"
+        "book_path": "book_archive/books/Цена посвящения: Серый Ангел",
+        "image_path": "book_archive/images/768.jpg"
     },
     {
         "book_genres": [
@@ -48,8 +48,8 @@
         "book_name": "Цена посвящения: Время Зверя",
         "image_name": "769.jpg",
         "book_comment": [],
-        "book_path": "library/books/Цена посвящения: Время Зверя",
-        "image_path": "library/images/769.jpg"
+        "book_path": "book_archive/books/Цена посвящения: Время Зверя",
+        "image_path": "book_archive/images/769.jpg"
     },
     {
         "book_genres": [
@@ -61,8 +61,8 @@
         "book_name": "Дело Джен, или Эйра немилосердия",
         "image_name": "1131.jpg",
         "book_comment": [],
-        "book_path": "library/books/Дело Джен, или Эйра немилосердия",
-        "image_path": "library/images/1131.jpg"
+        "book_path": "book_archive/books/Дело Джен, или Эйра немилосердия",
+        "image_path": "book_archive/images/1131.jpg"
     },
     {
         "book_genres": [
@@ -74,8 +74,8 @@
         "book_name": "Фабрика дьявола",
         "image_name": "1715.jpg",
         "book_comment": [],
-        "book_path": "library/books/Фабрика дьявола",
-        "image_path": "library/images/1715.jpg"
+        "book_path": "book_archive/books/Фабрика дьявола",
+        "image_path": "book_archive/images/1715.jpg"
     },
     {
         "book_genres": [
@@ -87,8 +87,8 @@
         "book_name": "Говорящий камень",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Говорящий камень",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Говорящий камень",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -100,8 +100,8 @@
         "book_name": "И Он пришел... ИТ-роман",
         "image_name": "2043.jpg",
         "book_comment": [],
-        "book_path": "library/books/И Он пришел... ИТ-роман",
-        "image_path": "library/images/2043.jpg"
+        "book_path": "book_archive/books/И Он пришел... ИТ-роман",
+        "image_path": "book_archive/images/2043.jpg"
     },
     {
         "book_genres": [
@@ -113,8 +113,8 @@
         "book_name": "Казнить нельзя помиловать",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Казнить нельзя помиловать",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Казнить нельзя помиловать",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -126,8 +126,8 @@
         "book_name": "Ночь, которая умирает",
         "image_name": "4024.jpg",
         "book_comment": [],
-        "book_path": "library/books/Ночь, которая умирает",
-        "image_path": "library/images/4024.jpg"
+        "book_path": "book_archive/books/Ночь, которая умирает",
+        "image_path": "book_archive/images/4024.jpg"
     },
     {
         "book_genres": [
@@ -140,8 +140,8 @@
         "book_name": "Нырок в забвение",
         "image_name": "4102.jpg",
         "book_comment": [],
-        "book_path": "library/books/Нырок в забвение",
-        "image_path": "library/images/4102.jpg"
+        "book_path": "book_archive/books/Нырок в забвение",
+        "image_path": "book_archive/images/4102.jpg"
     },
     {
         "book_genres": [
@@ -153,8 +153,8 @@
         "book_name": "Поющий колокольчик",
         "image_name": "4876.jpg",
         "book_comment": [],
-        "book_path": "library/books/Поющий колокольчик",
-        "image_path": "library/images/4876.jpg"
+        "book_path": "book_archive/books/Поющий колокольчик",
+        "image_path": "book_archive/images/4876.jpg"
     },
     {
         "book_genres": [
@@ -166,8 +166,8 @@
         "book_name": "Продается тело Христа",
         "image_name": "5299.jpg",
         "book_comment": [],
-        "book_path": "library/books/Продается тело Христа",
-        "image_path": "library/images/5299.jpg"
+        "book_path": "book_archive/books/Продается тело Христа",
+        "image_path": "book_archive/images/5299.jpg"
     },
     {
         "book_genres": [
@@ -180,8 +180,8 @@
         "book_name": "Роковой поцелуй",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Роковой поцелуй",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Роковой поцелуй",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -193,8 +193,8 @@
         "book_name": "Те, кто против нас",
         "image_name": "6758.jpg",
         "book_comment": [],
-        "book_path": "library/books/Те, кто против нас",
-        "image_path": "library/images/6758.jpg"
+        "book_path": "book_archive/books/Те, кто против нас",
+        "image_path": "book_archive/images/6758.jpg"
     },
     {
         "book_genres": [
@@ -206,8 +206,8 @@
         "book_name": "Телепортеры, внимание!",
         "image_name": "6766.jpg",
         "book_comment": [],
-        "book_path": "library/books/Телепортеры, внимание!",
-        "image_path": "library/images/6766.jpg"
+        "book_path": "book_archive/books/Телепортеры, внимание!",
+        "image_path": "book_archive/images/6766.jpg"
     },
     {
         "book_genres": [
@@ -219,8 +219,8 @@
         "book_name": "Зодиак",
         "image_name": "8283.jpg",
         "book_comment": [],
-        "book_path": "library/books/Зодиак",
-        "image_path": "library/images/8283.jpg"
+        "book_path": "book_archive/books/Зодиак",
+        "image_path": "book_archive/images/8283.jpg"
     },
     {
         "book_genres": [
@@ -231,8 +231,8 @@
         "book_name": "9-я книга. Тарат Зурбин",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/9-я книга. Тарат Зурбин",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/9-я книга. Тарат Зурбин",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -243,8 +243,8 @@
         "book_name": "90х60х90",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/90х60х90",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/90х60х90",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -255,8 +255,8 @@
         "book_name": "995-й святой",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/995-й святой",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/995-й святой",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -267,8 +267,8 @@
         "book_name": "А, Критика!",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А, Критика!",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А, Критика!",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -279,8 +279,8 @@
         "book_name": "АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ",
         "image_name": "18949.jpg",
         "book_comment": [],
-        "book_path": "library/books/АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ",
-        "image_path": "library/images/18949.jpg"
+        "book_path": "book_archive/books/АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ",
+        "image_path": "book_archive/images/18949.jpg"
     },
     {
         "book_genres": [
@@ -291,8 +291,8 @@
         "book_name": "А бог един",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А бог един",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А бог един",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -303,8 +303,8 @@
         "book_name": "А была ли тайна",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А была ли тайна",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А была ли тайна",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -315,8 +315,8 @@
         "book_name": "А человек забудет",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А человек забудет",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А человек забудет",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -327,8 +327,8 @@
         "book_name": "А что будет",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А что будет",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А что будет",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -339,8 +339,8 @@
         "book_name": "А что с ними делать дальше?",
         "image_name": "18956.jpg",
         "book_comment": [],
-        "book_path": "library/books/А что с ними делать дальше?",
-        "image_path": "library/images/18956.jpg"
+        "book_path": "book_archive/books/А что с ними делать дальше?",
+        "image_path": "book_archive/images/18956.jpg"
     },
     {
         "book_genres": [
@@ -351,8 +351,8 @@
         "book_name": "А дом стоит себе спокойно (Вечный дом)",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А дом стоит себе спокойно (Вечный дом)",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А дом стоит себе спокойно (Вечный дом)",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -363,8 +363,8 @@
         "book_name": "А еще мы выгуливаем собак",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А еще мы выгуливаем собак",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А еще мы выгуливаем собак",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -375,8 +375,8 @@
         "book_name": "А где же Рошар",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А где же Рошар",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А где же Рошар",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -387,8 +387,8 @@
         "book_name": "А и Е",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А и Е",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А и Е",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -399,8 +399,8 @@
         "book_name": "А я пойду дальше",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А я пойду дальше",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А я пойду дальше",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -411,8 +411,8 @@
         "book_name": "А как же еще",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А как же еще",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А как же еще",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -423,8 +423,8 @@
         "book_name": "А мне до них",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А мне до них",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А мне до них",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -435,8 +435,8 @@
         "book_name": "А могла бы и быть",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А могла бы и быть",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А могла бы и быть",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -447,8 +447,8 @@
         "book_name": "А моя мама - ведьма!",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А моя мама - ведьма!",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А моя мама - ведьма!",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -459,8 +459,8 @@
         "book_name": "А мы лезем в окно",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А мы лезем в окно",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А мы лезем в окно",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -471,8 +471,8 @@
         "book_name": "А вдруг",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А вдруг",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А вдруг",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -483,8 +483,8 @@
         "book_name": "А все из-за любви",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/А все из-за любви",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/А все из-за любви",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -495,8 +495,8 @@
         "book_name": "Абстрактное мышление",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Абстрактное мышление",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Абстрактное мышление",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -507,8 +507,8 @@
         "book_name": "Ад для флибустьеров",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Ад для флибустьеров",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Ад для флибустьеров",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -519,8 +519,8 @@
         "book_name": "Ад есть ад",
         "image_name": "19005.jpg",
         "book_comment": [],
-        "book_path": "library/books/Ад есть ад",
-        "image_path": "library/images/19005.jpg"
+        "book_path": "book_archive/books/Ад есть ад",
+        "image_path": "book_archive/images/19005.jpg"
     },
     {
         "book_genres": [
@@ -531,8 +531,8 @@
         "book_name": "Агент",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Агент",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Агент",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -543,8 +543,8 @@
         "book_name": "Агент X-100-C",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Агент X-100-C",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Агент X-100-C",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -555,8 +555,8 @@
         "book_name": "Александр-наживка",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Александр-наживка",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Александр-наживка",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -567,8 +567,8 @@
         "book_name": "Александр Александрович Малиновский (Богданов)",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Александр Александрович Малиновский (Богданов)",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Александр Александрович Малиновский (Богданов)",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -579,8 +579,8 @@
         "book_name": "Александр Бог",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Александр Бог",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Александр Бог",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -591,8 +591,8 @@
         "book_name": "Александр Лаврентьевич Колпаков - об авторе",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Александр Лаврентьевич Колпаков - об авторе",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Александр Лаврентьевич Колпаков - об авторе",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -603,8 +603,8 @@
         "book_name": "Александр Петрович и Вероятностный Демон",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Александр Петрович и Вероятностный Демон",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Александр Петрович и Вероятностный Демон",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -615,8 +615,8 @@
         "book_name": "Амулькантарат",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Амулькантарат",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Амулькантарат",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -627,8 +627,8 @@
         "book_name": "Амулет (Потревоженное проклятие)",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Амулет (Потревоженное проклятие)",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Амулет (Потревоженное проклятие)",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -639,8 +639,8 @@
         "book_name": "Амулет викингов",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Амулет викингов",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Амулет викингов",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -651,8 +651,8 @@
         "book_name": "Анабель-Ли",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Анабель-Ли",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Анабель-Ли",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -663,8 +663,8 @@
         "book_name": "Анаконда",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Анаконда",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Анаконда",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -675,8 +675,8 @@
         "book_name": "Анализ",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Анализ",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Анализ",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -687,8 +687,8 @@
         "book_name": "Аналоги",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Аналоги",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Аналоги",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -699,8 +699,8 @@
         "book_name": "Аналогичный случай",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Аналогичный случай",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Аналогичный случай",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -711,8 +711,8 @@
         "book_name": "Аналогия",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Аналогия",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Аналогия",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -723,8 +723,8 @@
         "book_name": "Ананасы в кадках",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Ананасы в кадках",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Ананасы в кадках",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -735,8 +735,8 @@
         "book_name": "Аргументы совести",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Аргументы совести",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Аргументы совести",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -747,8 +747,8 @@
         "book_name": "Аргус-12 (Космический блюститель)",
         "image_name": "19356.jpg",
         "book_comment": [],
-        "book_path": "library/books/Аргус-12 (Космический блюститель)",
-        "image_path": "library/images/19356.jpg"
+        "book_path": "book_archive/books/Аргус-12 (Космический блюститель)",
+        "image_path": "book_archive/images/19356.jpg"
     },
     {
         "book_genres": [
@@ -759,8 +759,8 @@
         "book_name": "Атеист",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атеист",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атеист",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -771,8 +771,8 @@
         "book_name": "Атенаора Меттер Порфирола",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атенаора Меттер Порфирола",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атенаора Меттер Порфирола",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -783,8 +783,8 @@
         "book_name": "Атира (Влад Талтош - 6)",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атира (Влад Талтош - 6)",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атира (Влад Талтош - 6)",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -795,8 +795,8 @@
         "book_name": "Атлантида Сумрачного Солнца",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атлантида Сумрачного Солнца",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атлантида Сумрачного Солнца",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -807,8 +807,8 @@
         "book_name": "Атлантида в наших мечтах",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атлантида в наших мечтах",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атлантида в наших мечтах",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -819,8 +819,8 @@
         "book_name": "Атлантида",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атлантида",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атлантида",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -831,8 +831,8 @@
         "book_name": "Атланты, Кутгар",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атланты, Кутгар",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атланты, Кутгар",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -843,8 +843,8 @@
         "book_name": "Атланты, Воин",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атланты, Воин",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атланты, Воин",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -855,8 +855,8 @@
         "book_name": "Атланты, боги и великаны",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Атланты, боги и великаны",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Атланты, боги и великаны",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -867,8 +867,8 @@
         "book_name": "Аватара",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Аватара",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Аватара",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -879,8 +879,8 @@
         "book_name": "Авессалом",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Авессалом",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Авессалом",
+        "image_path": "book_archive/images/nopic.gif"
     },
     {
         "book_genres": [
@@ -891,7 +891,7 @@
         "book_name": "Авось !!",
         "image_name": "nopic.gif",
         "book_comment": [],
-        "book_path": "library/books/Авось !!",
-        "image_path": "library/images/nopic.gif"
+        "book_path": "book_archive/books/Авось !!",
+        "image_path": "book_archive/images/nopic.gif"
     }
 ]

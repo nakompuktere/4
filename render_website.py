@@ -9,7 +9,7 @@ import argparse
 def on_reload():
     parser = argparse.ArgumentParser(
         description="создает сайт с книгами"
-    )   
+    )
     parser.add_argument("--file_path", help="введите путь до файла с данными о книгах", default="library/books_description.json")
     args = parser.parse_args()
 
@@ -28,7 +28,6 @@ def on_reload():
     pages = len(book_pages)
     for id, book_page in enumerate(book_pages, 1):
         chunked_books = list(chunked(book_page, columns_number))
-        
         rendered_page = template.render(
             books=chunked_books,
             current_page=id,
@@ -37,6 +36,7 @@ def on_reload():
 
         with open(f"pages/index{id}.html", "w", encoding="utf8") as file:
             file.write(rendered_page)
+
 
 def main():
     os.makedirs("pages", exist_ok=True)
